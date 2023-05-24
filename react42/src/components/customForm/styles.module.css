@@ -1,0 +1,15 @@
+.registration {
+  display: flex;
+  flex-direction: column;
+}
+
+.inputField {
+  width: 190px;
+  border: none;
+  outline: none;
+}
+
+.submitButton {
+  width: 222px;
+  margin: 0 10px;
+}
